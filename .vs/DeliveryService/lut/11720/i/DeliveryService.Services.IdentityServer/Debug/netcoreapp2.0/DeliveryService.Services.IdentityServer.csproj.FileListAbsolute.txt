@@ -1,0 +1,11 @@
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.deps.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.runtimeconfig.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.runtimeconfig.dev.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.pdb
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.csprojResolveAssemblyReference.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.csproj.CoreCompileInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.AssemblyInfoInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.AssemblyInfo.cs
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.IdentityServer\Debug\netcoreapp2.0\DeliveryService.Services.IdentityServer.pdb

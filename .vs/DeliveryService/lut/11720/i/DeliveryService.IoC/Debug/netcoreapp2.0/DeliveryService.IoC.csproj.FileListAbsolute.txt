@@ -1,0 +1,9 @@
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.IoC\Debug\netcoreapp2.0\DeliveryService.IoC.deps.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.IoC\Debug\netcoreapp2.0\DeliveryService.IoC.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.IoC\Debug\netcoreapp2.0\DeliveryService.IoC.pdb
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.IoC\Debug\netcoreapp2.0\DeliveryService.IoC.csprojResolveAssemblyReference.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.IoC\Debug\netcoreapp2.0\DeliveryService.IoC.csproj.CoreCompileInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.IoC\Debug\netcoreapp2.0\DeliveryService.IoC.AssemblyInfoInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.IoC\Debug\netcoreapp2.0\DeliveryService.IoC.AssemblyInfo.cs
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.IoC\Debug\netcoreapp2.0\DeliveryService.IoC.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.IoC\Debug\netcoreapp2.0\DeliveryService.IoC.pdb

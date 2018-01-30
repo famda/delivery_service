@@ -1,0 +1,9 @@
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Infrastructure\Debug\netcoreapp2.0\DeliveryService.Infrastructure.deps.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Infrastructure\Debug\netcoreapp2.0\DeliveryService.Infrastructure.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Infrastructure\Debug\netcoreapp2.0\DeliveryService.Infrastructure.pdb
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Infrastructure\Debug\netcoreapp2.0\DeliveryService.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Infrastructure\Debug\netcoreapp2.0\DeliveryService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Infrastructure\Debug\netcoreapp2.0\DeliveryService.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Infrastructure\Debug\netcoreapp2.0\DeliveryService.Infrastructure.AssemblyInfo.cs
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Infrastructure\Debug\netcoreapp2.0\DeliveryService.Infrastructure.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Infrastructure\Debug\netcoreapp2.0\DeliveryService.Infrastructure.pdb

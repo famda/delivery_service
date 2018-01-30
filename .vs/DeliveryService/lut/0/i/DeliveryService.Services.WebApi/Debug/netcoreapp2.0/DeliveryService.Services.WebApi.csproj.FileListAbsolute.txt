@@ -1,0 +1,11 @@
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.deps.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.runtimeconfig.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.runtimeconfig.dev.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.pdb
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.csproj.CoreCompileInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.AssemblyInfoInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.AssemblyInfo.cs
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.pdb
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Services.WebApi\Debug\netcoreapp2.0\DeliveryService.Services.WebApi.csprojResolveAssemblyReference.cache

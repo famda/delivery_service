@@ -1,0 +1,9 @@
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain\Debug\netcoreapp2.0\DeliveryService.Domain.deps.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain\Debug\netcoreapp2.0\DeliveryService.Domain.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain\Debug\netcoreapp2.0\DeliveryService.Domain.pdb
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain\Debug\netcoreapp2.0\DeliveryService.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain\Debug\netcoreapp2.0\DeliveryService.Domain.AssemblyInfoInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain\Debug\netcoreapp2.0\DeliveryService.Domain.AssemblyInfo.cs
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain\Debug\netcoreapp2.0\DeliveryService.Domain.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain\Debug\netcoreapp2.0\DeliveryService.Domain.pdb
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain\Debug\netcoreapp2.0\DeliveryService.Domain.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.deps.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.runtimeconfig.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.runtimeconfig.dev.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.pdb
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.csproj.CoreCompileInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.AssemblyInfoInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.AssemblyInfo.cs
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Domain.Tests\Debug\netcoreapp2.0\DeliveryService.Domain.Tests.pdb

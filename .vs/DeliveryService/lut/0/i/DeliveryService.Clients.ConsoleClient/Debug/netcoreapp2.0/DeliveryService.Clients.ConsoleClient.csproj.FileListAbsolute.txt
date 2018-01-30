@@ -1,0 +1,12 @@
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\appsettings.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.deps.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.runtimeconfig.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.runtimeconfig.dev.json
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\b\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.pdb
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.csproj.CoreCompileInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.AssemblyInfoInputs.cache
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.AssemblyInfo.cs
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.dll
+D:\Projects\DeliveryService\.vs\DeliveryService\lut\0\i\DeliveryService.Clients.ConsoleClient\Debug\netcoreapp2.0\DeliveryService.Clients.ConsoleClient.pdb
